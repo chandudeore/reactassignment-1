@@ -1,0 +1,26 @@
+.all{
+    display: flex;
+    gap: 3px;
+}
+.second-2{
+    width: 1000px;
+    margin-left: 30px;
+}
+.header-2{
+    display: flex;
+    justify-content: space-between;
+}
+.heading{
+    color: rgb(22, 31, 34);
+    letter-spacing: 2px;
+}
+.new{
+    margin-top: 15px;
+    margin-right: 5px;
+    padding: 10px 30px;
+    background-color: #109cf1;
+    border: 1px solid #109cf1;
+    border-radius: 6px;
+    color: aliceblue;
+    font-weight: 600;
+}
